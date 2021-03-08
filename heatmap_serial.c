@@ -1,7 +1,5 @@
 /*
 	heatmap_serial.c
-	Assignment 2 - Yohan Moon
-	Due: October 12 2020
 
 	Serial implementation of heat distribution map
 
