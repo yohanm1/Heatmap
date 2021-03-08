@@ -1,7 +1,5 @@
 /*
 	heatmap_parallel.c
-	Assignment 2 - Yohan Moon
-	Due: October 12 2020
 
 	Parallel implementation of heat distribution map
 
